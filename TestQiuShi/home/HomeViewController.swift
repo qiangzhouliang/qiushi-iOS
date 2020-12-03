@@ -9,6 +9,7 @@ import UIKit
 import MJRefresh
 import Alamofire
 
+
 class HomeViewController: UIViewController {
     
     //tableView
